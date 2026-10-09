@@ -1,0 +1,6 @@
+{
+  "url": "https://archive.ics.uci.edu/static/public/275/bike+sharing+dataset.zip",
+  "csv_sha256": "e03de4ee4ef4dc376ac6e04bf829673c6269e8eba5c60fa121640fa2f829504f",
+  "license": "CC BY 4.0",
+  "citation": "Fanaee-T, H. (2013). Bike Sharing. DOI:10.24432/C5W894"
+}

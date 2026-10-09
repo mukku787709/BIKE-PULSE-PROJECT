@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+artifacts/
+data/
+*.pyc
+.DS_Store
+training.log
